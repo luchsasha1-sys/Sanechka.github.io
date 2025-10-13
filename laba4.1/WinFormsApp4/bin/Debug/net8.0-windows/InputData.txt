@@ -1,0 +1,10 @@
+Ivanchuk;Olena;Petrovna;Ukrainian;175;60;1995;05;12;12345;Ukraine;Kyiv;Shevchenkivskyi;Vulytsia Heroiv;1;23
+Bondarenko;Mariia;Ivanivna;Ukrainian;165;50;1998;11;20;67890;Ukraine;Lviv;Halytskyi;Vulytsia Dovzhenka;2;45
+Petrova;Sofia;Mykhailivna;Ukrainian;180;65;2000;03;15;11223;Ukraine;Kharkiv;Kievskyi;Vulytsia Shchorsa;3;67
+Kovalenko;Tetiana;Vasylivna;Ukrainian;160;55;1997;06;25;33456;Ukraine;Odesa;Primorskyi;Vulytsia Pobedy;4;89
+Shevchenko;Viktoria;Serhiivna;Ukrainian;170;58;1996;09;14;99887;Ukraine;Dnipro;Centralnyi;Vulytsia Lenina;5;12
+Kuzmenko;Diana;Volodymyrivna;Ukrainian;175;63;1999;12;05;77654;Ukraine;Donetsk;Kyivskyi;Vulytsia Kharkivska;6;34
+Tymoshenko;Yulia;Petrovna;Ukrainian;167;59;1994;04;11;44321;Ukraine;Poltava;Miskyi;Vulytsia Perekop;7;56
+Novak;Anna;Igorivna;Ukrainian;162;48;2001;02;17;55211;Ukraine;Chernivtsi;Shevchenkivskyi;Vulytsia Shevchenka;8;78
+Mykytiuk;Irina;Oleksandrivna;Ukrainian;180;66;1995;07;30;22334;Ukraine;Sumy;Zaliznychnyi;Vulytsia Tsentralna;9;90
+Stepanenko;Karyna;Serhiivna;Ukrainian;172;61;2002;01;20;66789;Ukraine;Zaporizhzhia;Azovskyi;Vulytsia Pivdenna;10;12
