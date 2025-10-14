@@ -1,0 +1,17 @@
+C:\Users\Aristokrat\source\repos\Laba4.3\Laba4.3\bin\Debug\net8.0-windows\Laba4.3.exe
+C:\Users\Aristokrat\source\repos\Laba4.3\Laba4.3\bin\Debug\net8.0-windows\Laba4.3.deps.json
+C:\Users\Aristokrat\source\repos\Laba4.3\Laba4.3\bin\Debug\net8.0-windows\Laba4.3.runtimeconfig.json
+C:\Users\Aristokrat\source\repos\Laba4.3\Laba4.3\bin\Debug\net8.0-windows\Laba4.3.dll
+C:\Users\Aristokrat\source\repos\Laba4.3\Laba4.3\bin\Debug\net8.0-windows\Laba4.3.pdb
+C:\Users\Aristokrat\source\repos\Laba4.3\Laba4.3\obj\Debug\net8.0-windows\Laba4_3.Form1.resources
+C:\Users\Aristokrat\source\repos\Laba4.3\Laba4.3\obj\Debug\net8.0-windows\Laba4.3.csproj.GenerateResource.cache
+C:\Users\Aristokrat\source\repos\Laba4.3\Laba4.3\obj\Debug\net8.0-windows\Laba4.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aristokrat\source\repos\Laba4.3\Laba4.3\obj\Debug\net8.0-windows\Laba4.3.AssemblyInfoInputs.cache
+C:\Users\Aristokrat\source\repos\Laba4.3\Laba4.3\obj\Debug\net8.0-windows\Laba4.3.AssemblyInfo.cs
+C:\Users\Aristokrat\source\repos\Laba4.3\Laba4.3\obj\Debug\net8.0-windows\Laba4.3.csproj.CoreCompileInputs.cache
+C:\Users\Aristokrat\source\repos\Laba4.3\Laba4.3\obj\Debug\net8.0-windows\Laba4.3.dll
+C:\Users\Aristokrat\source\repos\Laba4.3\Laba4.3\obj\Debug\net8.0-windows\refint\Laba4.3.dll
+C:\Users\Aristokrat\source\repos\Laba4.3\Laba4.3\obj\Debug\net8.0-windows\Laba4.3.pdb
+C:\Users\Aristokrat\source\repos\Laba4.3\Laba4.3\obj\Debug\net8.0-windows\Laba4.3.genruntimeconfig.cache
+C:\Users\Aristokrat\source\repos\Laba4.3\Laba4.3\obj\Debug\net8.0-windows\ref\Laba4.3.dll
+C:\Users\Aristokrat\source\repos\Laba4.3\Laba4.3\bin\Debug\net8.0-windows\InputData.txt
