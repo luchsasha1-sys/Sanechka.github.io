@@ -1,0 +1,16 @@
+C:\Users\Aristokrat\source\repos\Labka5n1\Labka5n1\obj\Debug\net8.0-windows\Labka5n1.Form1.resources
+C:\Users\Aristokrat\source\repos\Labka5n1\Labka5n1\obj\Debug\net8.0-windows\Labka5n1.csproj.GenerateResource.cache
+C:\Users\Aristokrat\source\repos\Labka5n1\Labka5n1\obj\Debug\net8.0-windows\Labka5n1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aristokrat\source\repos\Labka5n1\Labka5n1\obj\Debug\net8.0-windows\Labka5n1.AssemblyInfoInputs.cache
+C:\Users\Aristokrat\source\repos\Labka5n1\Labka5n1\obj\Debug\net8.0-windows\Labka5n1.AssemblyInfo.cs
+C:\Users\Aristokrat\source\repos\Labka5n1\Labka5n1\obj\Debug\net8.0-windows\Labka5n1.csproj.CoreCompileInputs.cache
+C:\Users\Aristokrat\source\repos\Labka5n1\Labka5n1\bin\Debug\net8.0-windows\Labka5n1.exe
+C:\Users\Aristokrat\source\repos\Labka5n1\Labka5n1\bin\Debug\net8.0-windows\Labka5n1.deps.json
+C:\Users\Aristokrat\source\repos\Labka5n1\Labka5n1\bin\Debug\net8.0-windows\Labka5n1.runtimeconfig.json
+C:\Users\Aristokrat\source\repos\Labka5n1\Labka5n1\bin\Debug\net8.0-windows\Labka5n1.dll
+C:\Users\Aristokrat\source\repos\Labka5n1\Labka5n1\bin\Debug\net8.0-windows\Labka5n1.pdb
+C:\Users\Aristokrat\source\repos\Labka5n1\Labka5n1\obj\Debug\net8.0-windows\Labka5n1.dll
+C:\Users\Aristokrat\source\repos\Labka5n1\Labka5n1\obj\Debug\net8.0-windows\refint\Labka5n1.dll
+C:\Users\Aristokrat\source\repos\Labka5n1\Labka5n1\obj\Debug\net8.0-windows\Labka5n1.pdb
+C:\Users\Aristokrat\source\repos\Labka5n1\Labka5n1\obj\Debug\net8.0-windows\Labka5n1.genruntimeconfig.cache
+C:\Users\Aristokrat\source\repos\Labka5n1\Labka5n1\obj\Debug\net8.0-windows\ref\Labka5n1.dll
